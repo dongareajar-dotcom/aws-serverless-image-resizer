@@ -1,0 +1,10 @@
+User
+  │
+  ▼
+S3 Source Bucket
+  │
+  ▼
+Lambda + Pillow Layer
+  │
+  ▼
+S3 Output Bucket
